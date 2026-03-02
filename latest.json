@@ -1,0 +1,19 @@
+{
+  "version": "0.1.0",
+  "notes": "Initial release.",
+  "pub_date": "2026-01-01T00:00:00Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "PASTE_CONTENTS_OF_Smoozy.app.tar.gz.sig_HERE",
+      "url": "https://github.com/a-kislyakov/smoozy-releases/releases/download/v0.1.0/Smoozy.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "PASTE_CONTENTS_OF_Smoozy.app.tar.gz.sig_HERE",
+      "url": "https://github.com/a-kislyakov/smoozy-releases/releases/download/v0.1.0/Smoozy.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "PASTE_CONTENTS_OF_Smoozy_0.1.0_x64-setup.nsis.sig_OR_Smoozy_0.1.0_x64_en-US.msi.sig",
+      "url": "https://github.com/YOUR_USERNAME/YOUR_RELEASES_REPO/releases/download/v0.1.0/Smoozy_0.1.0_x64-setup.nsis.exe"
+    }
+  }
+}
