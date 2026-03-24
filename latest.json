@@ -1,18 +1,18 @@
 {
-  "version": "v1.0.8",
+  "version": "v1.0.9",
   "pub_date": "2026-03-20T00:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb1RtcEtnK05aQmFKdVdjYzEyL2hkVDl4ZVRwMTJKaEF0eC95VzQ2MmdMU1E3VXdkSWlTSlpvV2c0elJtbzRHK3NWek1XMVFmVkZ1OGcrVmZsaGNBNzA5VkZiVnlrTlE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MDM2MTQ0CWZpbGU6U21vb3p5LmFwcC50YXIuZ3oKYW9KdU56TmNNb1BLTm10Q1F5T25JcldFeEdWN0JqMVNmQzZGVWduMFFTeks5KzcxSDRVTyttc25hQjRmTkhGbytvME9aaVNKalhUa0xUNDBicE52QlE9PQo=",
-      "url": "https://github.com/a-kislyakov/smoozy-releases/releases/download/v1.0.8/Smoozy_1.0.8_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb1RtcEtnK05aQlpRd1AzY3dGYUlOeFhBcDB6K0ZQckl1a29PSGMvS3RCWGdKK3Y0OU5ZV1dIME8wVEFmenBabjdzcDNGcnRBZk11NlM0cVIxaGxQbW4zdVlaZHFhUXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzU5OTUwCWZpbGU6U21vb3p5LmFwcC50YXIuZ3oKYk5ncm4xa2VIMUVrSkwzRHVEMTZIZWxsaFlsdDdsMlVKWTdCVHBxOHFDSWl4eXVCRzR1WHlqUkVjRFN0WmRqS1ZqSExOT3U1elArTmF5OWFhVDdQQUE9PQo=",
+      "url": "https://github.com/a-kislyakov/smoozy-releases/releases/download/v1.0.9/Smoozy_1.0.9_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb1RtcEtnK05aQmUzMEpMc1M2K1htU1pWS25jSi9WMVBtYXJPdWpXN2JkcU9oL1Qzcm9JVTNXclFxS041TTNVampVSFVqNkNpOG9kMEVuT3FvN1VMRUpnWjRXSFVLTmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MDM2MjI1CWZpbGU6U21vb3p5LmFwcC50YXIuZ3oKclVrejdKRWhqZkIrSDdlUVRNRXhwbkZYWkovVXgwNVNZNG5BbW1PS1dYOFUwUkIwWldHeXlRZDE4eC9oYlJEQWUxNU9rVmh3dmpDTGU0U0R1cUdZQVE9PQo=",
-      "url": "https://github.com/a-kislyakov/smoozy-releases/releases/download/v1.0.8/Smoozy_1.0.8_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb1RtcEtnK05aQmJEMWFrMEp1TU94ZTVxdGhkdHRpN1RVRnNtNGtuN0g4YTJuVG94WWJyamdkK1RzV1l6bmVBVjc4cURlT2dBWkI0RGRIaVpKY2JOdG43dmhGMFBIdEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzYwMDU5CWZpbGU6U21vb3p5LmFwcC50YXIuZ3oKVm9KZFp0T05scEdFajJIc2FqSTRHTFE4L3BjT0hSdHBIS0Nvc2ZoRHlKTUQ3djlNMmhpYXpHUlQ4elI5MkcxeXJNUHY5NE4waUowUXZCbXBndGJkQmc9PQo=",
+      "url": "https://github.com/a-kislyakov/smoozy-releases/releases/download/v1.0.9/Smoozy_1.0.9_x64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb1RtcEtnK05aQlJBYzFvRmU2Tm4yUk5uUWphQU9kNXhMOWMrV0JNZUpuNzFUWDRIWUp6Y3BoWlNnQnNkTk42bHJpWXJCSWJkNjZSL0lIT0xodU9saXFCYUxMWUFpbUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MDM3MDM3CWZpbGU6U21vb3p5XzEuMC44X3g2NF9lbi1VUy5tc2kKL244NzZNWDBEeEJ5bGJJd2ttRmNyR1ZpMTZqVWRTWVlsR2lLc0tscmVkdWRJaVA4NFNtOHZwYVJYSmVwZXlBYjliTEFTQnJBWUNVVjNvYURwS2ZrQ2c9PQo=",
-      "url": "https://github.com/a-kislyakov/smoozy-releases/releases/download/v1.0.8/Smoozy_1.0.8_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb1RtcEtnK05aQmRqakZ1Yi81bFlodEx5c1c2ZjQyRStDM0dJWFhHYzlYaTltMEVpMURIcjVTMDJ2T2xzaE9MaFV3bmdxRFBQNW12TG9TNW5iZDdBeHM1VlA0UjdDYndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzYxNTE0CWZpbGU6U21vb3p5XzEuMC45X3g2NF9lbi1VUy5tc2kKdjdaVmZLVnBlM1pDY3VrT05tWGVWVmUwZHN4c3BYQnN4UW9FQ3J5MWRjTFlhSGNyT2QzS0ZVZndFMXRqMVhwVUtXTWt1S0FkWURTNEdjZHAwaGFsQWc9PQo=",
+      "url": "https://github.com/a-kislyakov/smoozy-releases/releases/download/v1.0.9/Smoozy_1.0.9_x64_en-US.msi"
     }
   }
 }
